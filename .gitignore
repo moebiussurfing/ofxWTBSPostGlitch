@@ -1,0 +1,10 @@
+
+example/example.xcodeproj/xcuserdata/wat.xcuserdatad/xcschemes/xcschememanagement.plist
+example/example.xcodeproj/xcuserdata/switch.xcuserdatad/xcschemes/xcschememanagement.plist
+example/example.xcodeproj/project.xcworkspace/xcuserdata/wat.xcuserdatad/UserInterfaceState.xcuserstate
+example/example.xcodeproj/project.xcworkspace/xcuserdata/switch.xcuserdatad/UserInterfaceState.xcuserstate
+example/example.xcodeproj/project.xcworkspace/xcuserdata/manumolina.xcuserdatad/UserInterfaceState.xcuserstate
+example/bin/exampleDebug.app/Contents/MacOS/exampleDebug
+example/bin/exampleDebug.app/Contents/Frameworks/libfmodex.dylib
+.DS_Store
+example/.DS_Store
