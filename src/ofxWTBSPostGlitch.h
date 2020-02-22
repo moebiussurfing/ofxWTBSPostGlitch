@@ -70,14 +70,14 @@ public:
         }
         
         // load shader files
-        shaders[ 0 ].load( "Shaders/wtbsShaders/delay" );
-        shaders[ 1 ].load( "Shaders/wtbsShaders/glitch" );
-        shaders[ 2 ].load( "Shaders/wtbsShaders/mosaic" );
-        shaders[ 3 ].load( "Shaders/wtbsShaders/split_v" );
-        shaders[ 4 ].load( "Shaders/wtbsShaders/split_h" );
-        shaders[ 5 ].load( "Shaders/wtbsShaders/noise_v" );
-        shaders[ 6 ].load( "Shaders/wtbsShaders/noise_h" );
-        shaders[ 7 ].load( "Shaders/wtbsShaders/rgbShift" );
+        shaders[ 0 ].load( "wtbsShaders/delay" );
+        shaders[ 1 ].load( "wtbsShaders/glitch" );
+        shaders[ 2 ].load( "wtbsShaders/mosaic" );
+        shaders[ 3 ].load( "wtbsShaders/split_v" );
+        shaders[ 4 ].load( "wtbsShaders/split_h" );
+        shaders[ 5 ].load( "wtbsShaders/noise_v" );
+        shaders[ 6 ].load( "wtbsShaders/noise_h" );
+        shaders[ 7 ].load( "wtbsShaders/rgbShift" );
         
         // set default values
         glitchSize    = new float;
